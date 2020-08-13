@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player1_points: 1
+  player2_points: 1
+
+two:
+  player1_points: 1
+  player2_points: 1
